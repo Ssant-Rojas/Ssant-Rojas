@@ -29,9 +29,9 @@ I'd like to do project that has relation to cibersecurity and web. :ghost:
 
 <br>
 
-
+<!--
 <details>
-<!-- <summary>:bar_chart: Recent Anilist Activity</summary> -->
+<!-- <summary>:bar_chart: Recent Anilist Activity</summary> 
 
 </details>
 
@@ -47,9 +47,11 @@ I'd like to do project that has relation to cibersecurity and web. :ghost:
 
 </details>
 
+-->
+
 Feel free to contact me :Ssant:
 <br><br>
-<a href="https://t.me/moepoi" target="_blank"><img src="https://img.shields.io/badge/Telegram-%40moepoi-28a8ea"></a>
+<a href="https://t.me/Ssant-Yum" target="_blank"><img src="https://img.shields.io/badge/Telegram-%40Ssant-28a8ea"></a>
 
 
 <a href="https://www.linkedin.com/in/kevin-rojas-rosas/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-kevinrojasrosas-informational"></a>
