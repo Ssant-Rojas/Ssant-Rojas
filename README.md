@@ -1,59 +1,21 @@
-### Hi there 👋
+Hi there!
 
-I'm Ssant ([21]() y.o) ! :sunglasses:
+I'm Ssant, a 21-year-old tech enthusiast passionate about automation, server management, and cybersecurity.
 
-I'd like to do project that has relation to cibersecurity and web. :ghost:
-
-:page_with_curl: I'm currently learning:
-<br><br>
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%2302569B.svg?style=for-the-badge&logo=Python&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%2300ADD8.svg?style=for-the-badge&logo=JavaScript&logoColor=white)
-![React](https://img.shields.io/badge/React-%2300ADD8.svg?style=for-the-badge&logo=React&logoColor=yellow)
-
-<!--:star: Here are some projects that I'm working on:
-- [Frontier of Hell](https://github.com/moepoi/Frontier-of-Hell)
-- [Kitchen Counts](https://github.com/moepoi/Kitchen_Counts)
-- [Nekoya](https://github.com/Nekoya-Site)
-- [Easy Learn](https://github.com/Easy-Learn/App/releases/tag/v1.0.1)
-- [Neonime App](https://install.appcenter.ms/users/moepoi/apps/neonime/distribution_groups/public)
-- [Nepgear](https://t.me/NepgearBot)
-- [WhoisBot](https://t.me/WhoisBot)
-- [Moe API](https://beta.moe.team)
--->
-<details>
-<summary>:trophy: Github Stats</summary>
-<img src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=Ssant-Rojas">
-</details>
-
+I’m currently working as a Level 1 Service Desk Analyst, where I help implement automation processes and configure server environments.
+I'm especially interested in working on projects related to cybersecurity and web development.
+I'm currently learning:
 <br>
 
-<!--
-<details>
-<!-- <summary>:bar_chart: Recent Anilist Activity</summary> 
+Dart
+Python
+Flutter
 
-</details>
+<details> <summary>GitHub Stats</summary> <br> <img src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=Ssant-Rojas" alt="GitHub Stats"> </details>
+Let's connect!
 
+Feel free to reach out or connect with me through the following platforms:
 
-
-<details>
-  
-
-
-</details>
-
-<details>
-
-</details>
-
--->
-
-Feel free to contact me :Ssant:
-<br><br>
 <a href="https://t.me/Ssant-Yum" target="_blank"><img src="https://img.shields.io/badge/Telegram-%40Ssant-28a8ea"></a>
-
-
 <a href="https://www.linkedin.com/in/kevin-rojas-rosas/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-kevinrojasrosas-informational"></a>
 <a href="mailto:kevinrojasingsis@gmail.com"><img src="https://img.shields.io/badge/Email-kevinrojasingsis%40gmail.com-orange"></a>
-<!-- <a href="https://moepoi.dev" target="_blank"><img src="https://img.shields.io/badge/Personal%20Site-moepoi.dev-red"></a> -->
